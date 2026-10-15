@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "ac71311db0bf32b44c8a5e53",
+  "owner": "qvrvvhyp",
+  "repo": "page-3fc9d491b93effe666aefeeb",
+  "title": "小火箭下载",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "3fc9d491b93effe666aefeeb",
+      "a": "小火箭下载",
+      "b": "",
+      "entity": "小火箭下载",
+      "brand": "小火箭下载",
+      "separator": "",
+      "path": "index.html",
+      "hash": "1fa318cbf7a51f008451580198e5f1d5c34ad4eb9728476585a35e6c56f8b735",
+      "content": {
+        "keyword1": "小火箭下载",
+        "keyword2": "",
+        "primary_entity": "小火箭下载",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "小火箭下载为您提供专业的VPN网络加速器客户端下载服务，助您畅享高速稳定网络体验。",
+          "AI_DESCRIPTION": "小火箭下载为您提供专业的VPN网络加速器客户端下载服务，助您畅享高速稳定网络体验。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    <style>\n        :root {\n            --purple: #6b46c1;\n            --gray: #f5f5f5;\n            --text: #333;\n            --light: #555;\n        }\n        body {\n            font-family: system-ui, -apple-system, sans-serif;\n            line-height: 1.6;\n            margin: 0;\n            padding: 0;\n            background: #fff;\n            color: var(--text);\n        }\n        main {\n            max-width: 820px;\n            margin: 0 auto;\n            padding: 20px 15px;\n        }\n        h1 {\n            color: var(--purple);\n            text-align: center;\n            font-size: 2.2rem;\n            margin-bottom: 30px;\n        }\n        h2 {\n            color: var(--purple);\n            font-size: 1.5rem;\n            margin: 35px 0 15px;\n        }\n        p {\n            color: var(--light);\n            margin-bottom: 18px;\n        }\n        ol {\n            padding-left: 20px;\n            color: var(--light);\n        }\n        ol li {\n            margin-bottom: 12px;\n        }\n        .plan-grid {\n            display: flex;\n            flex-wrap: wrap;\n            gap: 20px;\n            margin-bottom: 35px;\n        }\n        .plan-card {\n            flex: 1;\n            min-width: 260px;\n            background: var(--gray);\n            border-radius: 12px;\n            padding: 25px;\n            box-shadow: 0 2px 8px rgba(0,0,0,0.05);\n        }\n        .plan-card.featured {\n            background: linear-gradient(145deg, #f0e6ff, #e0d4ff);\n            border: 2px solid var(--purple);\n            position: relative;\n        }\n        .plan-card.featured::before {\n            content: \"推荐\";\n            position: absolute;\n            top: -12px;\n            right: 20px;\n            background: var(--purple);\n            color: #fff;\n            padding: 4px 14px;\n            border-radius: 20px;\n            font-size: 0.85rem;\n            font-weight: bold;\n        }\n        .plan-card h3 {\n            margin: 0 0 12px;\n            color: var(--purple);\n        }\n        .plan-price {\n            font-size: 1.35rem;\n            font-weight: bold;\n            color: var(--text);\n            margin-bottom: 15px;\n        }\n        .plan-price.annual {\n            color: #666;\n            font-size: 1rem;\n            font-weight: normal;\n        }\n        ul {\n            list-style: none;\n            padding: 0;\n            margin: 0 0 18px;\n        }\n        ul li {\n            padding: 8px 0 8px 26px;\n            position: relative;\n            color: var(--light);\n        }\n        ul li:before {\n            content: \"✓\";\n            position: absolute;\n            left: 0;\n            color: var(--purple);\n            font-weight: bold;\n        }\n        details {\n            background: var(--gray);\n            border-radius: 12px;\n            margin-bottom: 12px;\n            overflow: hidden;\n        }\n        summary {\n            padding: 18px 22px;\n            font-weight: 600;\n            cursor: pointer;\n            color: var(--purple);\n            font-size: 1.1rem;\n        }\n        summary:hover {\n            background: #e8d8ff;\n        }\n        .faq-answer {\n            padding: 0 22px 18px;\n            color: var(--light);\n            line-height: 1.7;\n        }\n        a {\n            color: var(--purple);\n            text-decoration: none;\n        }\n        a:hover {\n            text-decoration: underline;\n        }\n        @media (max-width: 600px) {\n            main {\n                padding: 15px;\n            }\n            h1 {\n                font-size: 1.9rem;\n            }\n        }\n    </style>\n\n\n    <main>\n        <h1>小火箭下载</h1>\n        \n        <section>\n            <h2>品牌简介</h2>\n            <p>小火箭下载是一款专业VPN网络加速器，提供高速稳定的节点池和客户端服务，帮助用户轻松突破地域限制，实现流畅的全球网络访问。无论日常浏览、游戏加速还是流媒体解锁，都能为您带来稳定高效的体验。</p>\n        </section>\n        \n        <section>\n            <h2>使用场景</h2>\n            <p>小火箭下载适用于多种网络需求场景，包括海外社交沟通、游戏加速、视频流媒体解锁以及日常上网提速。无论是家庭用户还是企业团队，都能通过小火箭获得优质的加速服务。</p>\n        </section>\n        \n        <section>\n            <h2>操作说明</h2>\n            <p>使用小火箭下载非常简单，只需几步即可完成：</p>\n            <ol>\n                <li>访问官网下载小火箭客户端（支持Windows/Mac/iOS/Android）</li>\n                <li>安装并登录账号，选择合适的套餐</li>\n                <li>选择可用节点连接，享受高速网络</li>\n                <li>随时切换节点，满足不同场景需求</li>\n            </ol>\n        </section>\n        \n        <section>\n            <h2>套餐选择</h2>\n            <div class=\"plan-grid\">\n                <div class=\"plan-card\">\n                    <h3>基础版</h3>\n                    <div class=\"plan-price\">¥15/月</div>\n                    <div class=\"plan-price annual\">按年付仅需 ¥150/年</div>\n                    <ul>\n                        <li>每月 100GB 极速流量</li>\n                        <li>支持 3 台设备同时在线</li>\n                        <li>解锁基础流媒体</li>\n                        <li>普通线路节点池</li>\n                    </ul>\n                </div>\n                \n                <div class=\"plan-card featured\">\n                    <h3>旗舰版</h3>\n                    <div class=\"plan-price\">¥35/月</div>\n                    <div class=\"plan-price annual\">按年付仅需 ¥350/年</div>\n                    <ul>\n                        <li>每月 300GB 极速流量</li>\n                        <li>支持 5 台设备同时在线</li>\n                        <li>全节点原生流媒体解锁</li>\n                        <li>IPLC 专线游戏加速优化</li>\n                        <li>7x24 优先工单支持</li>\n                    </ul>\n                </div>\n                \n                <div class=\"plan-card\">\n                    <h3>团队版</h3>\n                    <div class=\"plan-price\">¥85/月</div>\n                    <div class=\"plan-price annual\">按年付仅需 ¥850/年</div>\n                    <ul>\n                        <li>每月 1000GB 极速流量</li>\n                        <li>支持 20 台设备同时在线</li>\n                        <li>VIP 专属高带宽节点</li>\n                        <li>支持企业定制路由</li>\n                        <li>专属客户经理服务</li>\n                    </ul>\n                </div>\n            </div>\n        </section>\n        \n        <section>\n            <h2>常见问题</h2>\n            <details>\n                <summary>如何下载小火箭客户端？</summary>\n                <div class=\"faq-answer\">访问官网首页，点击页面上的下载按钮即可获取最新版本客户端，安装后即可使用。</div>\n            </details>\n            \n            <details>\n                <summary>小火箭VPN是什么？</summary>\n                <div class=\"faq-answer\">小火箭VPN是一款专业网络加速器，提供高速稳定的节点服务，帮助用户轻松解锁流媒体和提升上网速度。</div>\n            </details>\n            \n            <details>\n                <summary>支持哪些设备？</summary>\n                <div class=\"faq-answer\">小火箭客户端支持Windows、Mac、iOS、Android等多平台，设备兼容性良好。</div>\n            </details>\n            \n            <details>\n                <summary>节点质量如何？</summary>\n                <div class=\"faq-answer\">我们提供多种线路选择，包括普通线路和IPLC专线，满足不同网络需求，节点稳定性高。</div>\n            </details>\n            \n            <details>\n                <summary>如何升级套餐？</summary>\n                <div class=\"faq-answer\">登录账号后，在个人中心可随时查看并升级套餐，灵活调整流量和功能。</div>\n            </details>\n        </section>\n    <section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>\n\n",
+          "hash": "533ab475ae956fb653c731417d9fbada092e30eeb347ab3b8ab06b6d49138eb8",
+          "seo": {
+            "title": "小火箭下载 - VPN加速器 客户端下载",
+            "keywords": "小火箭下载,VPN加速器,客户端下载,VPN节点,机场加速",
+            "description": "小火箭下载为您提供专业的VPN网络加速器客户端下载服务，助您畅享高速稳定网络体验。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "er8y.cn",
+    "host": "p-bc4486100f.er8y.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "7d787f8f031989bf4fe7caadad0435034ee5957032838ff426629c7dabe7b551",
+    "sitemap.xml": "89d740af8d04392e5967ab295596736a74bbc830b6a4f470ef0148fff3989fd1",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "0766ebc13c383160f69b479d83a1513cbb945c9d677f45b34dd1bb310db29343",
+    "robots.txt": "0aab4f12dbb1303973e31605052a08071730c2836f37cb24f0f830b36ebf335e",
+    "8c2151a4f20b8928e3dd5e776309a5be.txt": "76acc51c8fef42a45b6cd13f9a55b94b1f8ff854119a95f0011662381294e6e4"
+  },
+  "revision": "0a1b12986f113f062378a0cf5ef3eafd538c05a80708c2199dcb4d94dcf486be"
+}
